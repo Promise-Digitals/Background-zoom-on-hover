@@ -10,13 +10,13 @@
     display: grid;
     place-items: center;
     position: relative;
-    background: #555;
+    background: #f9f9f9;
 }
 .container h1{
     font-size: 40px;
     position: absolute;
     top: 30px;
-    color: #fff;
+    color: #4f76f6;
 }
 .content-box{
     width: 450px;
