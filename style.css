@@ -2,7 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: cursive;
+    font-family: serif;
 }
 .container{
     width: 100%;
@@ -10,13 +10,13 @@
     display: grid;
     place-items: center;
     position: relative;
-    background: #f9f9f9;
+    background: #fff;
 }
 .container h1{
     font-size: 40px;
     position: absolute;
     top: 30px;
-    color: #4f76f6;
+    color: #6660ff;
 }
 .content-box{
     width: 450px;
